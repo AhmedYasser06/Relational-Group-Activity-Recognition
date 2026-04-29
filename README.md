@@ -9,7 +9,7 @@
   Unlike traditional pooling methods (max, average, or attention pooling) that reduce dimensionality but discard important spatial and relational details, this paper introduces a <strong>relational layer</strong>. 
   The relational layer enhances a person’s representation by explicitly modeling interactions with its neighbors in a structured relationship graph, leading to richer scene-level understanding.
 
-
+---
 </p>
    <p align="center">
    <img src="https://github.com/user-attachments/assets/8d8f4ea7-803c-486d-8fb7-00638445ddb7" alt="Graph Structure Illustration" width="750"/>
