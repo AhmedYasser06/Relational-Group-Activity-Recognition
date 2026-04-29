@@ -3,7 +3,7 @@
    <img src="https://github.com/user-attachments/assets/8d8f4ea7-803c-486d-8fb7-00638445ddb7" alt="Graph Structure Illustration" width="750"/>
    </p>
    
----
+
 <h1 align="center">Relational-Group-Activity-Recognition</h1>
 
 <p align="center">
